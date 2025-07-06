@@ -1,0 +1,24 @@
+{
+  "name": "My First Salla Theme",
+  "author": "Your Name",
+  "repo_url": "https://github.com/your-username/my-salla-theme",
+  "support_url": "https://yourwebsite.com/support",
+  "features": [
+    "component-hero-banner"
+  ],
+  "components": [
+    {
+      "name": "Hero Banner",
+      "path": "sections/hero-banner.liquid",
+      "icon": "heroicons-outline:photograph",
+      "fields": [
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "Main Heading",
+          "default": "Welcome to My Store"
+        }
+      ]
+    }
+  ]
+}
