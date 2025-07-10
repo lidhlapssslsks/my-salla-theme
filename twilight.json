@@ -1,7 +1,7 @@
 {
   "name": "My First Salla Theme",
-  "author": "Your Name",
-  "repo_url": "https://github.com/your-username/my-salla-theme",
+  "author": "khaild",
+  "repo_url": "https://github.com/my-salla-theme/my-salla-theme",
   "support_url": "https://yourwebsite.com/support",
   "features": [
     "component-hero-banner"
